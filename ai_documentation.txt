@@ -1,0 +1,5 @@
+I did not use AI/LLM tools for this assignment.
+
+I only used conventional web search (Google) to look up documentation or examples (e.g., package docs, Binder URL format) and wrote/edited all code and text myself.
+
+I also consulted with one of my friends who studies data and statistics. 
